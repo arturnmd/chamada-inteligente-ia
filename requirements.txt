@@ -1,7 +1,4 @@
 streamlit
 deepface
-tf-keras
 opencv-python-headless
-pandas
-numpy
-pillow
+tf-keras
