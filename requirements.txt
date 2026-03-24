@@ -1,4 +1,7 @@
 streamlit
-deepface
-opencv-python-headless
+deepface==0.0.92
 tf-keras
+opencv-python-headless
+pandas
+numpy==1.26.4
+pillow
